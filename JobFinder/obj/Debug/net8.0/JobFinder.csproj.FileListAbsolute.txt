@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\bin\Debug\net8.0\JobFinder.exe
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\bin\Debug\net8.0\JobFinder.deps.json
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\bin\Debug\net8.0\JobFinder.runtimeconfig.json
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\bin\Debug\net8.0\JobFinder.dll
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\bin\Debug\net8.0\JobFinder.pdb
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\obj\Debug\net8.0\JobFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\obj\Debug\net8.0\JobFinder.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\obj\Debug\net8.0\JobFinder.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\obj\Debug\net8.0\JobFinder.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\obj\Debug\net8.0\JobFinder.dll
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\obj\Debug\net8.0\refint\JobFinder.dll
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\obj\Debug\net8.0\JobFinder.pdb
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\obj\Debug\net8.0\JobFinder.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\obj\Debug\net8.0\ref\JobFinder.dll
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\obj\Debug\net8.0\JobFinder.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\JobFinder\obj\Debug\net8.0\JobFinder.csproj.Up2Date

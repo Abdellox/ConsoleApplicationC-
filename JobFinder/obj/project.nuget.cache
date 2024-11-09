@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DbO9Jz2f/aY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Bureau\\SE\\2-Coding_C#\\JobFinder\\JobFinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

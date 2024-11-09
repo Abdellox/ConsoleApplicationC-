@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\ToDoListManager\obj\Debug\net8.0\TodoListManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\ToDoListManager\obj\Debug\net8.0\TodoListManager.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\ToDoListManager\obj\Debug\net8.0\TodoListManager.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\ToDoListManager\obj\Debug\net8.0\TodoListManager.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\ToDoListManager\bin\Debug\net8.0\TodoListManager.exe
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\ToDoListManager\bin\Debug\net8.0\TodoListManager.deps.json
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\ToDoListManager\bin\Debug\net8.0\TodoListManager.runtimeconfig.json
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\ToDoListManager\bin\Debug\net8.0\TodoListManager.dll
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\ToDoListManager\bin\Debug\net8.0\TodoListManager.pdb
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\ToDoListManager\obj\Debug\net8.0\TodoListManager.dll
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\ToDoListManager\obj\Debug\net8.0\refint\TodoListManager.dll
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\ToDoListManager\obj\Debug\net8.0\TodoListManager.pdb
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\ToDoListManager\obj\Debug\net8.0\TodoListManager.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Bureau\SE\2-Coding_C#\ToDoListManager\obj\Debug\net8.0\ref\TodoListManager.dll

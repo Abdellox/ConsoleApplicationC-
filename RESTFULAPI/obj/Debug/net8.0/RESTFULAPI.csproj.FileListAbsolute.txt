@@ -1,0 +1,14 @@
+F:\SE\2-Coding_C#\RESTFULAPI\bin\Debug\net8.0\RESTFULAPI.exe
+F:\SE\2-Coding_C#\RESTFULAPI\bin\Debug\net8.0\RESTFULAPI.deps.json
+F:\SE\2-Coding_C#\RESTFULAPI\bin\Debug\net8.0\RESTFULAPI.runtimeconfig.json
+F:\SE\2-Coding_C#\RESTFULAPI\bin\Debug\net8.0\RESTFULAPI.dll
+F:\SE\2-Coding_C#\RESTFULAPI\bin\Debug\net8.0\RESTFULAPI.pdb
+F:\SE\2-Coding_C#\RESTFULAPI\obj\Debug\net8.0\RESTFULAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\SE\2-Coding_C#\RESTFULAPI\obj\Debug\net8.0\RESTFULAPI.AssemblyInfoInputs.cache
+F:\SE\2-Coding_C#\RESTFULAPI\obj\Debug\net8.0\RESTFULAPI.AssemblyInfo.cs
+F:\SE\2-Coding_C#\RESTFULAPI\obj\Debug\net8.0\RESTFULAPI.csproj.CoreCompileInputs.cache
+F:\SE\2-Coding_C#\RESTFULAPI\obj\Debug\net8.0\RESTFULAPI.dll
+F:\SE\2-Coding_C#\RESTFULAPI\obj\Debug\net8.0\refint\RESTFULAPI.dll
+F:\SE\2-Coding_C#\RESTFULAPI\obj\Debug\net8.0\RESTFULAPI.pdb
+F:\SE\2-Coding_C#\RESTFULAPI\obj\Debug\net8.0\RESTFULAPI.genruntimeconfig.cache
+F:\SE\2-Coding_C#\RESTFULAPI\obj\Debug\net8.0\ref\RESTFULAPI.dll
